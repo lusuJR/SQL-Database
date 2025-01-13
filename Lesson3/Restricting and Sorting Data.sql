@@ -10,7 +10,7 @@ WHERE Category = 'Electronics';
 
 
 /*
-For example, you want to find all customers who have a last name of "Selemani" or whose email ends with "lusuapp.com"
+You are tasked to find all customers who have a last name of "Selemani" or whose email ends with "lusuapp.com"
 */
 
 SELECT FirstName, LastName, Email
